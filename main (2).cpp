@@ -1,6 +1,5 @@
 
-    // Online Free C++ compiler to run C++ program online
-    #include <iostream>
+ #include <iostream>
 #include <cstring>
 using namespace std;
 
